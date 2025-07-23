@@ -35,8 +35,8 @@ This system captures player movements via a webcam and converts them into game c
 
 ## 📷 Visuals (Screenshots)
 
-![Start Gesture](start_gesture.png)
-![Move Left](move_left.png)
+![Start Gesture](start_gesture.docx)
+![Move Left](image.png)
 
 
 ```text
